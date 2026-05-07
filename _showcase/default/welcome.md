@@ -2,6 +2,7 @@
 show: true
 width: 8
 date: 2025-01-13 00:01:00 +0800
+group: "Not Just Research"
 ---
 
 <div class="p-4">

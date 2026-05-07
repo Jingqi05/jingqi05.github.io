@@ -45,6 +45,7 @@ education:
 
 experience:
 - name: 智能门禁系统开发
+  logo: /assets/images/badges/TAMU.svg
   position: 项目负责人 — STM32 + ESP32 + 云端服务器
   date: 2025 - Present
 

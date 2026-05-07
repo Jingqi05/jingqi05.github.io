@@ -1,19 +1,19 @@
-# Jasper Li — Academic Portfolio
+# 李景奇 — Personal Homepage
 
-Personal academic website for **Zongrong (Jasper) Li**, Ph.D. candidate in GIS at Texas A&M University. Research focuses on GeoAI, Data Fusion, and Human Geography in Urban environments.
+Personal website for **李景奇 (Jingqi Li)**, undergraduate student in Information Security at Tianjin Sino-German University of Applied Sciences. Research focuses on IoT security, embedded cryptography, and vehicular network authentication.
 
 ## Site Structure
 
 | Path | Purpose |
 |------|---------|
-| `_data/profile.yml` | Personal info, bio, education, experience, awards, social links |
+| `_data/profile.yml` | Personal info, bio, education, experience, awards |
 | `_data/display.yml` | Show/hide homepage sections |
 | `_data/navigation.yml` | Navbar pages |
 | `_data/authors.yml` | Collaborator names and profile links |
 | `_publications/YEAR/` | Add publication entries (Markdown) |
 | `_projects/YEAR/` | Add project entries (Markdown) |
 | `_news/` | Add news/announcements (Markdown) |
-| `assets/images/photos/interst.png` | Research interest diagram (homepage) |
+| `assets/images/photos/` | Profile photo |
 | `assets/images/covers/` | Cover images for publications and projects |
 | `assets/css/global.css` | Custom styles |
 | `assets/CV/cv.pdf` | CV file |
@@ -21,18 +21,13 @@ Personal academic website for **Zongrong (Jasper) Li**, Ph.D. candidate in GIS a
 ## Local Preview
 
 ```bash
-cd E:/Jasper0122.github.io
+cd jingqi.github.io-main
+bundle install
 bundle exec jekyll serve
 ```
 
 Then open http://127.0.0.1:4000/
 
-## Claude Skill
+## Template
 
-This project includes a Claude Code slash command for quick context loading:
-
-```
-/site-context
-```
-
-Reads all key files and summarizes the site structure and common editing tasks.
+Based on [academic-homepage](https://github.com/luost26/academic-homepage) by luost26.

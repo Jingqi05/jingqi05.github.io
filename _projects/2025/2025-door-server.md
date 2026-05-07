@@ -5,7 +5,7 @@ selected: false
 description: >-
   基于 Python + FastAPI 的门禁系统云端服务器，提供 TCP 加密通信接口和 HTTP REST API。
   支持设备认证、卡管理、开门记录查询，前端使用 Vue 3 + Tailwind CSS 构建管理界面。
-cover: /assets/images/covers/door-server.png
+cover:
 links:
   Code: https://github.com/Jingqi05/door-server
 ---

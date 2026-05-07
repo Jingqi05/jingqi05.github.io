@@ -7,7 +7,7 @@ description: >-
   集成 CryptoSession 安全会话库实现加密通信。
   支持 RFID 卡读取、OLED 状态显示、蜂鸣器提示、舵机门锁控制，
   与 STM32 端配合构成完整的分布式门禁系统。
-cover: /assets/images/covers/esp-doorcontrol.png
+cover:
 links:
   Code: https://github.com/Jingqi05/esp-doorcontrol
 ---

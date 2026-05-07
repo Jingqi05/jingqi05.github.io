@@ -7,7 +7,7 @@ description: >-
   采用 SM2 ECDH 临时密钥协商建立安全通道，SM4-CTR 模式加密通信数据，
   SM3-HMAC 保障消息完整性与防重放。支持 RFID 卡认证、远程开门、
   云端管理服务器，实现了从嵌入式固件到云端的完整安全架构。
-cover: /assets/images/covers/door-control.png
+cover:
 links:
   Code: https://github.com/Jingqi05/door-control-ecdh
 ---
