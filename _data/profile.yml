@@ -44,18 +44,37 @@ education:
   date: 2023 - Present
 
 experience:
+- name: 国家商用密码开发
+  logo: /assets/images/badges/TAMU.svg
+  position: 国家级大学生创新创业训练计划项目（已结项）
+  date: 2025.04 - 2025
+- name: 国密门禁系统开发
+  logo: /assets/images/badges/TAMU.svg
+  position: 课程设计 — Qt + SM2/SM3/SM4 企业级门禁管理系统
+  date: 2025.09 - Present
 - name: 智能门禁系统开发
   logo: /assets/images/badges/TAMU.svg
   position: 项目负责人 — STM32 + ESP32 + 云端服务器
   date: 2025 - Present
 
-
 awards:
+- name: 中国国际大学生创新训练计划国家级项目"国家商用密码开发"
+  date: 2025
+- name: 中国国际大学生创新大赛(2025)高教主赛道 市赛银奖
+  date: 2025
+- name: 中国国际大学生创新大赛(2025)产业赛道 校赛一等奖
+  date: 2025
+- name: 第九届创客中国天津市中小企业创新创业大赛 优胜奖
+  date: 2025
+- name: 第六届海河智创空间创新创业大赛 一等奖
+  date: 2025
 - name: MathorCup高校数学建模挑战赛 一等奖
   date: 2024.09
-- name: 全国大学生统计建模大赛 省级三等奖
-  date: 2024.11
 - name: MathorCup数学建模挑战赛 二等奖
   date: 2025.05
-- name: 中国大学生计算机设计大赛 省级三等奖
-  date: 2025.05
+- name: 软著《SM4加解密示教软件》
+  date: 2025
+- name: 软著《HMAC_SM3软件》
+  date: 2025
+- name: 软著《基于国密的门禁管理系统》
+  date: 2025
