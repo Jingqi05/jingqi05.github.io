@@ -1,0 +1,60 @@
+primary_name: "景奇"
+secondary_name: "李景奇"
+navbar_name: "Homepage"
+
+positions:
+- name: 信息安全专业本科生
+  logo: /assets/images/badges/TAMU.svg
+
+
+email: "lisang_12023@163.com"
+cv_link: /assets/CV/cv.pdf
+github: Jingqi05
+
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    我是天津中德应用技术大学信息安全专业的本科生，专注于物联网安全与嵌入式系统开发。
+    研究兴趣包括嵌入式密码学、物联网门禁系统、国密算法（SM2/SM3/SM4）应用，
+    以及车联网轻量级身份认证协议的设计与安全分析。
+  </p>
+
+  <p>
+    我主导开发了一套基于 STM32 + ESP32 的智能门禁系统，
+    集成 ECDH 密钥协商、SM4-CTR 加密通信、SM3-HMAC 完整性校验等密码学机制，
+    实现了从嵌入式固件到云端服务器的全链路安全通信。
+    同时在车联网安全领域，研究轻量级身份认证协议的设计与形式化验证。
+  </p>
+
+  <p>
+    技术栈：C/C++（STM32 HAL、ESP-IDF）、Python、国密算法（GmSSL）、
+    FreeRTOS、MQTT/TCP 协议、PlatformIO/CMake 构建系统。
+  </p>
+
+
+portrait_url: /assets/images/photos/profile.jpg
+portrait_caption: >-
+  Stay curious, build secure.
+
+education:
+- name: 天津中德应用技术大学
+  logo: /assets/images/badges/TAMU.svg
+  position: 信息安全专业 本科生
+  date: 2023 - Present
+
+experience:
+- name: 智能门禁系统开发
+  position: 项目负责人 — STM32 + ESP32 + 云端服务器
+  date: 2025 - Present
+
+
+awards:
+- name: MathorCup高校数学建模挑战赛 一等奖
+  date: 2024.09
+- name: 全国大学生统计建模大赛 省级三等奖
+  date: 2024.11
+- name: MathorCup数学建模挑战赛 二等奖
+  date: 2025.05
+- name: 中国大学生计算机设计大赛 省级三等奖
+  date: 2025.05
